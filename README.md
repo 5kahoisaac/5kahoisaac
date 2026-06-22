@@ -5,7 +5,10 @@ I am Isaac Ng / Ka Ho, a software engineer working across frontend, full-stack s
 <details open>
 <summary><h2> 🌐 Socials</h2></summary>
   
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aasa.xyz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaac-ng-573851159) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@5kahoisaac) [![Credly](https://img.shields.io/badge/credly-badges-%23ff6a00?logo=credly&logoColor=white)](https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/isaac-ng.4569cc77/badges/credly) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:me@isaac.ng) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaac-ng-573851159)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@5kahoisaac)
+[![Credly](https://img.shields.io/badge/credly-badges-%23ff6a00?logo=credly&logoColor=white)](https://www.credly.com/users/isaac-ng.4569cc77/badges/credly)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:me@isaac.ng) 
 </details>
 
 <details>
@@ -18,12 +21,10 @@ I am Isaac Ng / Ka Ho, a software engineer working across frontend, full-stack s
 
 <details open>
 <summary><h2> 📊 GitHub Stats</h2></summary>
-<div align="center">
-  
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=5kahoisaac&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.shion.dev/api?username=5kahoisaac&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=5kahoisaac&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=5kahoisaac&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
+![](https://streak-stats.demolab.com/?user=5kahoisaac&theme=radical&hide_border=false)
 </details>
 
 <details open>
