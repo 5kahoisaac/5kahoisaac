@@ -3,7 +3,7 @@ I am Isaac Ng / Ka Ho, a software engineer working across frontend, full-stack s
 
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aasa.xyz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaac-ng-573851159) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@5kahoisaac) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:me@isaac.ng) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aasa.xyz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaac-ng-573851159) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@5kahoisaac) [![Credly](https://img.shields.io/badge/credly-badges-%23ff6a00?logo=credly&logoColor=white)](https://www.credly.com/users/isaac-ng.4569cc77/badges/credly) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:me@isaac.ng) 
 
 <details>
 
