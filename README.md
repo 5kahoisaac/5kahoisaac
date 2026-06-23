@@ -9,8 +9,8 @@ can actually do.
 <details open>
 <summary><h2> 🌐 Socials</h2></summary>
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:me@isaac.ng)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://isaac.ng)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:me@isaac.ng)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@5kahoisaac)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaac-ng-573851159)
 [![Credly](https://img.shields.io/badge/credly-badges-%23ff6a00?logo=credly&logoColor=white)](https://www.credly.com/users/isaac-ng.4569cc77/badges/credly)
